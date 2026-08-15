@@ -110,7 +110,7 @@ This lab strengthened my foundational networking knowledge and troubleshooting a
 
 ## 📎 Files & Resources
 
-- **[Full Lab Report (PDF)](https://github.com/apacheclient/Network-Lab---Short-Config---Troubleshoot/blob/main/Network%20Lab%20%26%20Inventory%20Dash/Enterprise%20%20Small%20Business%20(SOHO)%20Network.pdf)**
+- **[Full Lab Report (PDF)]((https://github.com/apacheclient/Network-Lab-Short-Config-and-Troubleshoot/blob/main/network-lab/Enterprise%20%20Small%20Business%20(SOHO)%20Network.pdf))**
 - Packet Tracer Project File (`.pkt`) – Available upon request/or if not already in file
 
 ---
